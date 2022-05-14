@@ -15,7 +15,7 @@ class script(object):
 - Source - https://github.com/infotechIT/EvaMaria  
 
 <b>DEVS:</b>
-- <a href=https://t.me/infotechIT>Team Eva Maria</a>"""
+- <a href=https://t.me/TGDevZone>DevZone</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
@@ -36,7 +36,7 @@ class script(object):
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Eva Maria supports buttons with any telegram media type.
+2. Movie Bot supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
